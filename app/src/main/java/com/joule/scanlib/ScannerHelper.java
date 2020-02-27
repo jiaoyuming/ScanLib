@@ -1,4 +1,4 @@
-package com.lucky.scanlib.scanner;
+package com.joule.scanlib;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,8 @@ import android.text.TextUtils;
 import android.view.InputDevice;
 import android.view.KeyEvent;
 
-import com.lucky.scanlib.scanner.service.ScanService;
+
+import com.joule.scanlib.service.ScanService;
 
 import java.lang.ref.SoftReference;
 
@@ -20,7 +21,7 @@ import java.lang.ref.SoftReference;
  * 扫码器调用类
  */
 
-public class ScannerHelper implements InputManager.InputDeviceListener ,ScanService.OnKeyEvent{
+public class ScannerHelper implements InputManager.InputDeviceListener , ScanService.OnKeyEvent{
 
     private static final int DEVICE_ADDED = 15;
     private static final int DEVICE_REMOVED = 16;

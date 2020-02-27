@@ -1,4 +1,4 @@
-package com.lucky.scanlib.scanner;
+package com.joule.scanlib;
 
 /**
  * Created by mylo on 2017/7/7.

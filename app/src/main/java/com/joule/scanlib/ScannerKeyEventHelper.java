@@ -1,4 +1,4 @@
-package com.lucky.scanlib.scanner;
+package com.joule.scanlib;
 
 import android.os.Handler;
 import android.util.Log;

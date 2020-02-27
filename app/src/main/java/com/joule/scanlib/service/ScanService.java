@@ -1,4 +1,4 @@
-package com.lucky.scanlib.scanner.service;
+package com.joule.scanlib.service;
 
 
 import android.accessibilityservice.AccessibilityService;
