@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ScanLib</string>
+    <string name="app_name">Util</string>
+    <string name="accessibility_description">开启后扫码枪将不再与输入法冲突</string>
 </resources>
